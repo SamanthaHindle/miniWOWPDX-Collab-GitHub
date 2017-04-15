@@ -61,4 +61,3 @@ No themes!  Just bring yourself for some dancing!
 
 <img src="https://media.giphy.com/media/Ke21zZltvEbFm/giphy.gif" height=600>
 
-![](https://media.giphy.com/media/Ke21zZltvEbFm/giphy.gif)
